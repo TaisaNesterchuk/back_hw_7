@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "image": "https://content.rozetka.com.ua/goods/images/big/383728610.jpg",
+    "title": "Навушники Marshall Major IV Коричневі",
+    "price": 3250,
+    "categoryId": 1
+  },
+  {
+    "id": 2,
+    "categoryId": 1,
+    "title": "Навушники Apple AirPods Max Blue",
+    "price": "2550",
+    "image": "https://content.rozetka.com.ua/goods/images/big/469489584.jpg"
+  },
+  {
+    "id": 3,
+    "categoryId": 1,
+    "title": "Навушники Sennheiser Plus Wireless Black ",
+    "price": "7100",
+    "image": "https://content1.rozetka.com.ua/goods/images/big/508340725.jpg"
+  },
+  {
+    "id": 4,
+    "image": "https://content2.rozetka.com.ua/goods/images/big/508340582.jpg",
+    "title": "Бездротові навушники JBL Tune 770NC White",
+    "price": 3400,
+    "categoryId": 1
+  },
+  {
+    "id": 5,
+    "image": "https://content.rozetka.com.ua/goods/images/big/392923334.jpg",
+    "title": "Ноутбук Lenovo IdeaPad Gaming 3",
+    "price": 23700,
+    "categoryId": 2
+  },
+  {
+    "id": 6,
+    "image": "https://content2.rozetka.com.ua/goods/images/big/495384743.jpg",
+    "title": "Ноутбук Lenovo ThinkBook 16 G7 IML",
+    "price": 27300,
+    "categoryId": 2
+  },
+  {
+    "id": 7,
+    "image": "https://content.rozetka.com.ua/goods/images/big/505326416.jpg",
+    "title": "Ноутбук MSI Katana A17 AI B8VG-865",
+    "price": 86150,
+    "categoryId": 2
+  },
+  {
+    "id": 8,
+    "image": "https://content1.rozetka.com.ua/goods/images/big/505062624.jpg",
+    "title": "Ноутбук HP Victus 16-s0175ng",
+    "price": 53800,
+    "categoryId": 2
+  },
+  {
+    "id": 9,
+    "image": "https://content1.rozetka.com.ua/goods/images/big/310849856.jpg",
+    "title": "Масажна подушка Medisana MC 840",
+    "price": 1580,
+    "categoryId": 3
+  },
+  {
+    "id": 10,
+    "image": "https://content1.rozetka.com.ua/goods/images/big/310849879.jpg",
+    "title": "Масажна подушка OROMED ORO-PILLOW",
+    "price": 1630,
+    "categoryId": 3
+  },
+  {
+    "id": 11,
+    "image": "https://content1.rozetka.com.ua/goods/images/big/405448707.jpg",
+    "title": "Масажна подушка BEURER MG 145",
+    "price": 2330,
+    "categoryId": 3
+  },
+  {
+    "id": 12,
+    "image": "https://content.rozetka.com.ua/goods/images/big/459366804.jpg",
+    "title": "Подушка для тренувань SportVida SV-HK0310 ",
+    "price": 560,
+    "categoryId": 3
+  },
+  {
+    "id": 13,
+    "image": "https://content2.rozetka.com.ua/goods/images/big/469647681.jpg",
+    "title": "Apple iPhone 14 Pro",
+    "price": 39999,
+    "categoryId": 4
+  },
+  {
+    "id": 14,
+    "image": "https://content2.rozetka.com.ua/goods/images/big/469295504.jpg",
+    "title": "Samsung S23 Ultra",
+    "price": 47999,
+    "categoryId": 4
+  },
+  {
+    "id": 15,
+    "image": "https://content.rozetka.com.ua/goods/images/big/406989656.jpg",
+    "title": "Google Pixel 7 Pro",
+    "price": 35999,
+    "categoryId": 4
+  },
+  {
+    "id": 16,
+    "image": "https://content1.rozetka.com.ua/goods/images/big/469272487.jpg",
+    "title": "OnePlus 11",
+    "price": 31999,
+    "categoryId": 4
+  }
+]
